@@ -10,7 +10,7 @@ Historical tick-level market data for **Polymarket** and **Hyperliquid**: every 
 | --- | --- |
 | Polymarket order books: top of book and the 25-level L2 book | since February 2026 |
 | Polymarket native capture, including the raw websocket feed with nanosecond receive stamps | since 11 May 2026 |
-| Polymarket on-chain trade fills | since February 2025 |
+| Polymarket on-chain trade fills | since August 2023, per market, thinner before 2026 |
 | Hyperliquid books and trades for every perp, spot pair and HIP-3 market, rebuilt block by block from the chain's own order events | since 25 January 2025 |
 
 A "market" in the catalog is a Polymarket series (a repeating question such as "Bitcoin Up or Down, 15 minute") or a standalone event.
