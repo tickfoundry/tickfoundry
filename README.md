@@ -20,6 +20,7 @@ A "market" in the catalog is a Polymarket series (a repeating question such as "
 ## Start here
 
 - [Free sample bundles](https://tickfoundry.com/samples): one real market-day, parquet and CSV, no account needed
+- [Python SDK](https://github.com/tickfoundry/tickfoundry-python): pull any series into pandas and price executions against the recorded book (MIT)
 - [How to backtest Polymarket](https://tickfoundry.com/how-to-backtest-polymarket): pandas on the free sample, with slippage measured against the real book
 - [How to backtest on Hyperliquid](https://tickfoundry.com/how-to-backtest-hyperliquid): walk the 25-level book for real fills
 - [Kalshi historical data](https://tickfoundry.com/kalshi-historical-data): order books, trades and the ticker for every Kalshi series
